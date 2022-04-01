@@ -1,1 +1,6 @@
-:heart:
+ata
+daal
+sabzi
+roti
+bhains
+
