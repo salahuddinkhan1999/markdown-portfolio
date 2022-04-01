@@ -1,6 +1,6 @@
-ata
-daal
-sabzi
-roti
-bhains
+- ata
+- daal
+- sabzi
+- roti
+- bhains
 
